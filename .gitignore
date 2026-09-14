@@ -1,0 +1,14 @@
+# Licensed VASP data
+POTCAR*
+
+# Large VASP restart and raw-output files
+WAVECAR*
+CHGCAR*
+OUTCAR*
+vasprun.xml*
+
+# Local editor and Python artifacts
+.DS_Store
+__pycache__/
+*.pyc
+
