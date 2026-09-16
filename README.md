@@ -14,9 +14,9 @@ New Altermagnetic Candidates with Large Spin Splitting*.
   with `P < 0.9` included in the additional validation analysis
 - `final_cifs/`: PBE-relaxed altermagnetic structures of the 8 final
   candidates, with `final_structures.csv` as an index
-- `magnetic_configurations/magnetic_configurations.csv`: site-resolved initial
-  `AM`, `FM`, and `NM` configurations and PBE-converged site moments for the
-  9 structures entering DFT validation
+- `magnetic_configurations/magnetic_configurations.csv`: site-resolved `AM`,
+  `FM`, and `NM` magnetic moments before and after PBE convergence for the 9
+  structures entering DFT validation
 
 The screening stages currently recorded in `screening_master.csv` are applied
 in this order:
