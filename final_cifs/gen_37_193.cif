@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Fe2HOF5
+_symmetry_space_group_name_H-M   Amm2
+_cell_length_a   5.3757267900
+_cell_length_b   5.3757267900
+_cell_length_c   3.9134604800
+_cell_angle_alpha   90.0000000000
+_cell_angle_beta   90.0000000000
+_cell_angle_gamma   90.3131761100
+_symmetry_Int_Tables_number   38
+_chemical_formula_structural   Fe2HOF5
+_chemical_formula_sum   'Fe2 H1 O1 F5'
+_cell_volume   113.0912076700
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'y, x, -z'
+  3  'x, y, -z'
+  4  'y, x, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  2  0.3521748600  0.8672915800  0.0000000000  1.0
+  H  H7  1  0.3187718400  0.3187718400  0.0000000000  1.0
+  O  O8  1  0.1867293600  0.1867293600  0.0000000000  1.0
+  F  F3  2  0.0467970800  0.6714876800  0.0000000000  1.0
+  F  F6  2  0.3648046800  0.8465777500  0.5000000000  1.0
+  F  F5  1  0.5381484600  0.5381484600  0.0000000000  1.0
